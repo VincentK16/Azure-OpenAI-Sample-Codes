@@ -1,1 +1,1 @@
-# Azure-OpenAI-Sample-Codes
+# Azure OpenAI Sample Codes
